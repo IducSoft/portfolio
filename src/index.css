@@ -1,0 +1,34 @@
+
+
+
+/*estos son mis colores principales para el portfolio*/
+.color1 {color: #3e325c;}
+.color2 {color: #693d6b;}
+.color3 {color: #a44f7e;}
+.color4 {color: #f16f91;}
+.color5 {color: #ffa39f;}
+
+
+.color1 {color: #12152c;}
+.color2 {color: #123e73;}
+.color3 {color: #1fa7d4;}
+.color4 {color: #20dad9;}
+.color5 {color: #93e9e7;}
+
+/*navbar styles*/
+
+.bg-myNavBar{
+
+  background-color: #12152c;
+}
+
+.my-color-text{
+
+  color: #93e9e7;
+}
+
+.my-bg-light{
+
+  background-color: white;
+}
+
