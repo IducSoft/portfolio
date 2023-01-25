@@ -1,14 +1,10 @@
-import React, { useState } from 'react';
+import React from 'react';
 
 
 import logoTipo from "../assets/atomo.png";
 import menu from "../assets/menu.png";
 
 const NavBar = () => {
-
-  const [isOpen, setIsOpen] = useState(false);
-  console.log(isOpen)
-
   return (
   
     <nav className="navbar navbar-expand-lg bg-myNavBar border-bottom">
@@ -38,9 +34,7 @@ const NavBar = () => {
     </div>
   </nav>
       
-
     
-  
   )
 }
 
