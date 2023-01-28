@@ -32,3 +32,29 @@
   background-color: white;
 }
 
+
+/*header styles*/
+
+.header-container{
+
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #12152c;
+}
+
+.img-header-container{
+
+  width: auto;
+}
+
+@media screen and (max-width:580px) {
+  
+  .img-header-container{
+
+    width: 350px;
+  }
+}
+

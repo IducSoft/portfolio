@@ -7,7 +7,7 @@ import menu from "../assets/menu.png";
 const NavBar = () => {
   return (
   
-    <nav className="navbar navbar-expand-lg bg-myNavBar border-bottom">
+    <nav className="navbar fixed-top navbar-expand-lg bg-myNavBar ">
       <div className="container-fluid">
         <a className="navbar-brand" href="#">
           <img src={logoTipo} alt='img-logo' style={{width:"3.5rem"}}/>
